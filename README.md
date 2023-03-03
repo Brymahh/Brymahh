@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 Structural Engineering graduate learning to be a Data Scientist.
-- 🤔 Totally a beginner, if you have learning resources please PM me via twitter.
+- 🤔 If you have learning resources please PM me via twitter.
 - 📫 How to reach me: https://mobile.twitter.com/Brymah_
 - 😄 Well I dance sometimes and love taking pictures😄
 
