@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github Page
+### Updating my projects, Come Back in August
 ### I'm Godsgift
 <!--
 **Brymahh/Brymahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 Structural Engineering graduate learning to be a Data Scientist.
-- 🤔 If you have learning resources please PM me via twitter.
+- 🤔 If you have learning resources PM me via twitter.
 - 📫 How to reach me: https://mobile.twitter.com/Brymah_
 - 😄 Well I dance sometimes and love taking pictures😄
 
