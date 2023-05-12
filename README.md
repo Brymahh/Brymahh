@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github Page
-### Updating my projects, Come Back in August
+### Updating my projects, Come Back in Aug 2023
 ### I'm Godsgift
 <!--
 **Brymahh/Brymahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
