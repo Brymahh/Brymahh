@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 🌱 Structural Engineering graduate in love Data Science.
 - 🤔 Quote;  There's so much you can do.
 - 📫 How to reach me: https://mobile.twitter.com/Brymah_
-- 😄 Well I dance sometimes and love taking pictures😄
 
