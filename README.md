@@ -2,7 +2,7 @@
 Structural Engineering graduate in love Data Science, there's so much you can do.
 
 
-## Updating my projects, Come Back in Sep 2023.
+## Updating my projects, Come Back in Oct 2023.
 
 <a href="https://twitter.com/Brymah_"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/eseoghena-braimah/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
