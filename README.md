@@ -11,7 +11,7 @@ I do have an undergrad in Structural Engineering, but I am geared towards levera
 I'm a firm believer of `you can do great things from a small place`.
 
 -----------
-I've decided to finally update/work on more projects before the year runs out. Excited already.😁
+I've decided to finally update my repo, do some more projects before the year runs out. Excited already.😁
 
 
 ----------------------------
