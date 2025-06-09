@@ -10,9 +10,6 @@
 I do have an undergrad in Structural Engineering, but I am geared towards leveraging data science techniques in solving problems and execution of project deliverables. I have  experience utilizing tools such as Excel, SQL, Python, PowerBI and Tableau in making data driven decisions and solving problems.
 I'm a firm believer of `you can do great things from a small place`.
 
------------
-`I'm motivated to finally update my repo, do some projects before the year runs out. Looking forward to being stretched.....I'm excited already.😁`
-
 
 ----------------------------
 #### 🔗 Connect With Me
