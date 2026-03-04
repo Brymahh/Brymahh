@@ -1,7 +1,7 @@
 ## Hello & Welcome!
 #### I am Godsgift Eseoghena Braimah, 
 👩‍💻  I'm a Data Scientist. <br>
-👩‍🏫  Pursuing Master of Data Science at the University of British Columbia. <br>
+👩‍🏫  Pursuing a Master of Data Science at the University of British Columbia. <br>
 🐦‍🔥  This is where my rebirth begins.<br>
 🥅  I'm on a mission to make AI Less Complicated.<br>
 🫣  I am overly excited about anything AI. <br>
@@ -11,9 +11,9 @@
 
 ----------------------------
 #### 🔗 Connect With Me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://brymahh.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eseoghena-braimah/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Brymah_)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brymahh.github.io/) 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Brymah_) 
 
 
 -----------------------
