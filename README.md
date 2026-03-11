@@ -4,7 +4,7 @@
 👩‍🏫  Pursuing a Master of Data Science at the University of British Columbia. <br>
 🐦‍🔥  This is where my rebirth begins.<br>
 🥅  I'm on a mission to make AI Less Complicated.<br>
-🫣  I am overly excited about anything AI. <br>
+🫣  I am overly excited about anything AI and the use of data ethically by humans. <br>
 😇  Again, I am overly excited about AI and so I run a foundation [![AI For Kids](https://img.shields.io/badge/-AI%20For%20Kids-4ECDC4)](https://www.instagram.com/aiforkidsafrica/)
 
 
