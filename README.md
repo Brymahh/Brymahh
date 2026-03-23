@@ -1,6 +1,6 @@
 ## Hello & Welcome! 
 [![portfolio](https://img.shields.io/badge/my_portfolio-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://brymahh.github.io/)
-#### I am Godsgift Eseoghena Braimah, 
+#### I am Godsgift Eseoghena Braimah (<I promise, my parents named me all of that>), 
 👩‍💻  I'm a Data Scientist. <br>
 👩‍🏫  Pursuing a Master of Data Science at the University of British Columbia. <br>
 🐦‍🔥  This is where my rebirth begins.<br>
