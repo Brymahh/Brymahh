@@ -1,9 +1,8 @@
 ## Hello & Welcome! 
-[![portfolio](https://img.shields.io/badge/my_portfolio-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://brymahh.github.io/)
+
 #### I am Godsgift Eseoghena Braimah (<I promise, my parents named me all of that>), 
 👩‍💻  I'm a Data Scientist. <br>
 👩‍🏫  Pursuing a Master of Data Science at the University of British Columbia. <br>
-🥅  I'm on a mission to make AI Less Complicated.<br>
 🫣  I am overly excited about AI technological integrations and the use of these products ethically by humans. <br>
 😇  Again, I am overly excited about AI and so I run a foundation [![AI For Kids](https://img.shields.io/badge/-AI%20For%20Kids-4ECDC4)](https://www.instagram.com/aiforkidsafrica/)
 
