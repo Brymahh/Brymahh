@@ -1,4 +1,4 @@
-# Hi, I'm Godsgift Braimah 👋
+### Hi, I'm Godsgift Braimah 👋
 
 **Data Scientist & AI Engineer**
 
