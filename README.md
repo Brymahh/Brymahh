@@ -1,69 +1,66 @@
-## Hello & Welcome! 
+# Hi, I'm Godsgift Braimah 👋
 
-#### I am Godsgift Eseoghena Braimah (<I promise, my parents named me all of that>), 
-👩‍💻  I'm a Data Scientist. <br>
-👩‍🏫  Pursuing a Master of Data Science at the University of British Columbia. <br>
-🫣  I am overly excited about AI technological integrations and the use of these products ethically by humans. <br>
-😇  Again, I am overly excited about AI and so I run a foundation [![AI For Kids](https://img.shields.io/badge/-AI%20For%20Kids-4ECDC4)](https://www.instagram.com/aiforkidsafrica/)
+**Data Scientist & AI Engineer**
 
+I am a Data Scientist with over 4 years of experience specializing in statistical modeling, machine learning, and building robust data pipelines. 
+My professional focus lies at the intersection of AI technological integration and ethical deployment. I am passionate about building scalable models and ensuring AI products are utilized responsibly and effectively by humans. 
 
-
-----------------------------
-#### 🔗 Connect With Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-FFD700?style=for-the-badge&logo=ko-fi&logoColor=black)](https://brymahh.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eseoghena-braimah/)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brymah_e/) 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Brymah_) 
+Beyond my day-to-day technical work, I am the founder of **[AI For Kids Africa](https://www.instagram.com/aiforkidsafrica/)**, a foundation dedicated to democratizing AI education and prompt engineering for parents, teachers, and children.
 
 
------------------------
-### 🛠️ Tech Stack
-
-**Programming:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks:**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Data Science & ML:**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![R Studio](https://img.shields.io/badge/-R%20Studio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
-![Altair](https://img.shields.io/badge/-Altair-3D9A89?style=flat-square&logo=altair&logoColor=white)
-![Quarto](https://img.shields.io/badge/-Quarto-77B83B?style=flat-square&logo=quarto&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/-Supervised%20Learning-0A66C2?style=flat-square)
-![Unsupervised Learning](https://img.shields.io/badge/-Unsupervised%20Learning-0A66C2?style=flat-square)
-![Regression](https://img.shields.io/badge/-Regression-1F77B4?style=flat-square)
-![Classification](https://img.shields.io/badge/-Classification-1F77B4?style=flat-square)
-![Clustering](https://img.shields.io/badge/-Clustering-2CA02C?style=flat-square)
-![Dimensionality Reduction](https://img.shields.io/badge/-Dimensionality%20Reduction-2CA02C?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/-Model%20Evaluation-FF7F0E?style=flat-square)
-![Cross Validation](https://img.shields.io/badge/-Cross%20Validation-FF7F0E?style=flat-square)
-![Regularization](https://img.shields.io/badge/-Regularization-D62728?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-9467BD?style=flat-square)
-![Gradient Descent](https://img.shields.io/badge/-Gradient%20Descent-8C564B?style=flat-square)
-![Statistical Inference](https://img.shields.io/badge/-Statistical%20Inference-17BECF?style=flat-square)
-![Time Series](https://img.shields.io/badge/-Time%20Series-BCBD22?style=flat-square)
-![ARIMA](https://img.shields.io/badge/-ARIMA-BCBD22?style=flat-square)
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-EE4C2C?style=flat-square)
-
-
-**Cloud & DevOps:**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
+*(And yes, Godsgift Eseoghena Braimah is my real name!)*
 
 ---
 
+<h2 align="left">Technologies and Tools</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30"/>
+</p>
+
+<h2 align="left">Contact me</h2>
+<p align="left">
+  <a href="https://brymahh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2b3137?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Brymah_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/eseoghena-braimah/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/brymah_e/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brymahh&count_private=true&show_icons=true&theme=dark&hide_rank=false" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brymahh&theme=dark&layout=donut" /></td>    
+    </tr>   
+  </table>
+</center>
+
+<br>
+
 <div align="center">
-  <i>💡 "It is Possible to do great things from a small place."</i>
+  <i>💡 "It is possible to do great things from a small place."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Brymahh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Brymahh&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
+
 
