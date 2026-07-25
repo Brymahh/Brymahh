@@ -46,14 +46,15 @@ Beyond my day-to-day technical work, I am the founder of **[AI For Kids Africa](
   </a>
 </p>
 
-<center>
+
+<div align="center">
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Brymahh&count_private=true&show_icons=true&theme=dark&hide_rank=false" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brymahh&theme=dark&layout=donut" /></td>    
-    </tr>   
+      <td><img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=Brymahh&count_private=true&show_icons=true&theme=dark&hide_rank=false" /></td>
+      <td><img width="380" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brymahh&theme=dark&layout=donut" /></td>
+    </tr>
   </table>
-</center>
+</div>
 
 <br>
 
